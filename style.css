@@ -1,0 +1,43 @@
+body{
+    padding-top:5px;
+}
+.main{
+    border:2px solid grey;
+    width:220px;
+    margin:0 auto;
+    padding:4px;
+    background-color: rgb(8, 8, 8);
+}
+.inputbtn{
+    text-align: right;
+    width:95%;
+    background-color: rgb(219, 214, 214);
+    color:rgb(24, 21, 21);
+    font-size: 20px;
+}
+.clearbtn{
+    width:99.6%;
+    margin-top: 10px;
+    background-color: rgb(219, 214, 214);
+}
+.btn{
+    width:50px;
+    background-color: rgb(219, 214, 214);
+    margin:0.5px;
+    margin-top:3px;
+}
+.halfbtn{
+    background-color: rgb(219, 214, 214);
+    width:35.7%;
+    margin-top: 5px;
+}
+button{
+    font-weight: bold;
+    font-size: 14px;
+    height:40px;
+    border-radius: 10px;
+}
+input{
+    height:45px;
+    border-radius: 10px;
+}
